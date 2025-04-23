@@ -1,4 +1,3 @@
-
 # Explaining CNN Predictions for Skin Cancer Detection Using SHAP and LIME
 
 ## Abstract
@@ -203,3 +202,5 @@ The SHAP and LIME methods identified key superpixels in the skin images that con
 In this work, a CNN model was trained for skin cancer detection using the **HAM10000 dataset**, and both **SHAP** and **LIME** were applied to interpret the model’s predictions. The SHAP and LIME methods provided valuable insights into the model’s decision-making process, highlighting the regions of the image that are most important for classification. Both methods showed high agreement, demonstrating their effectiveness in explaining deep learning model predictions.
 
 These explainability techniques can help improve the transparency of AI models in healthcare applications, promoting trust and enabling clinicians to better understand the reasoning behind model predictions.
+
+For access to the full code and implementation, please visit the [GitHub repository](https://github.com/Venikhl/XAI_SHAP_LIME).
